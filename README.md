@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudeept-das
-- 👀 I’m interested in Competitive Programming, Software Development and Machine Learning. 
-- 🌱 I’m currently learning working at Cognizant
+- 👀 I’m interested in Software Development, System Design and Problem Solving 
+- 🌱 I’m currently learning working at Licious
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
